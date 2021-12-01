@@ -1,4 +1,6 @@
 # Test
+My first Commit
+
 To test the git and to connect the local repo to remote repo
 
 #Commands
